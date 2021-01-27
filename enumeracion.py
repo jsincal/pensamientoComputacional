@@ -3,7 +3,7 @@ def run():
     respuesta = 0
 
     while respuesta**2 < objetivo:
-        print(respuesta)
+        print(res)
         respuesta += 1
 
     if respuesta**2 == objetivo:
